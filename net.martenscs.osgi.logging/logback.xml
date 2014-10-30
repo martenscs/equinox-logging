@@ -24,7 +24,7 @@
 		<appender-ref ref="LOGFILE"/> 
 	</root>
 
-	<logger name="net.martenscs.osgi.logging.sample" level="ALL" />
+	<logger name="org.apache.aries" level="INFO" />
 
 
 </configuration>
